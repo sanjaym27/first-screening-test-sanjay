@@ -21,7 +21,7 @@ Tools Used
 └── PNG Exports
 
 Links
-	•	Figma File: [Insert your Figma link here]
+	•	Figma File: (https://www.figma.com/design/tzLzcm7GOO3NmGXfZKFtqn/first-screening-test-sanjay?node-id=0-1&t=e2l9Sve4EJuuqmUS-1)
 
 Notes
 	•	I recreated the sections pixel by pixel to match the given visuals.
